@@ -17,3 +17,10 @@ gsutil cp <file_name> gs://dantrisoft
 ## Cloud shell environments
 
 Change the `.profile`
+
+## List all available regions
+
+```
+gcloud compute regions list
+```
+
